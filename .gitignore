@@ -115,3 +115,5 @@ dmypy.json
 
 #the-racist
 .DS_Store
+
+assets/
